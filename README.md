@@ -4,6 +4,10 @@
 
 A Model Context Protocol (MCP) server implementation that provides deployed CrewAI workflows. This server enables kicking off your deployed crew and inspect the status giving the results of your crew.
 
+<a href="https://glama.ai/mcp/servers/@crewAIInc/enterprise-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@crewAIInc/enterprise-mcp-server/badge" alt="CrewAI Enterprise Server MCP server" />
+</a>
+
 ## Tools
 
 - kickoff_crew
